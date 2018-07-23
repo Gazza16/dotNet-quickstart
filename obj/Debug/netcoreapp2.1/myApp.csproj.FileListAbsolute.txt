@@ -1,0 +1,11 @@
+/Users/gmollica/Desktop/DevFiles/.NET/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/gmollica/Desktop/DevFiles/.NET/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/gmollica/Desktop/DevFiles/.NET/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/gmollica/Desktop/DevFiles/.NET/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/gmollica/Desktop/DevFiles/.NET/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/gmollica/Desktop/DevFiles/.NET/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/gmollica/Desktop/DevFiles/.NET/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/gmollica/Desktop/DevFiles/.NET/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/gmollica/Desktop/DevFiles/.NET/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/gmollica/Desktop/DevFiles/.NET/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/gmollica/Desktop/DevFiles/.NET/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
