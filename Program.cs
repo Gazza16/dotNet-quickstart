@@ -55,9 +55,8 @@ namespace NumbersInCSharp
             Console.WriteLine(h);
         }
 
-        static void Main(string[] args)
+        static void WorkWithDoubles()
         {
-
           double a = 5;
           double b = 4;
           double c = 2;
@@ -90,11 +89,50 @@ namespace NumbersInCSharp
           Console.WriteLine(p);
 
 
-        //  WorkingWithIntegers();
+        }
 
-        //  OrderPrecedence();
+        static void WorkingWithDecimals()
+        {
+          decimal min = decimal.MinValue;
+          decimal max = decimal.MaxValue;
+          Console.WriteLine($"The range of the decimal type is {min} to {max}");
 
-        //  TestLimits();
+          double a = 1.0;
+          double b = 3.0;
+          Console.WriteLine(a / b);
+
+          decimal c = 1.0M;
+          decimal d = 3.0M;
+
+          Console.WriteLine(c / d);
+        }
+
+        static void AreaOfCircle()
+        {
+
+          double radius = 2.50;
+          double area = Math.PI * radius * radius;
+
+          Console.WriteLine(area);
+
+        }
+
+        static void Main(string[] args)
+        {
+
+
+
+          AreaOfCircle();
+
+        //WorkWithDoubles();
+
+        //WorkingWithIntegers();
+
+        //OrderPrecedence();
+
+        //TestLimits();
+
+        //WorkingWithDecimals();
 
         }
     }
