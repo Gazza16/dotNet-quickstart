@@ -58,13 +58,43 @@ namespace NumbersInCSharp
         static void Main(string[] args)
         {
 
+          double a = 5;
+          double b = 4;
+          double c = 2;
+          double d = (a + b) / c;
+          Console.WriteLine(d);
+
+          double e = 19;
+          double f = 23;
+          double g = 8;
+          double h = (e + f) /g;
+          Console.WriteLine(h);
+
+          double max = double.MaxValue;
+          double min = double.MinValue;
+          Console.WriteLine($"The range of double is {min} to {max}");
+
+          double third = 1.0 / 3.0;
+          Console.WriteLine(third);
+
+          int i = 45;
+          int j = 89;
+          int k = 7;
+          int l = (i * j) /k;
+          Console.WriteLine(l);
+
+          double m = 45;
+          double n = 89;
+          double o = 7;
+          double p = (m * n) / o;
+          Console.WriteLine(p);
 
 
         //  WorkingWithIntegers();
 
         //  OrderPrecedence();
 
-        TestLimits();
+        //  TestLimits();
 
         }
     }
